@@ -2,7 +2,7 @@
  Name: <Adissem Moita>
  Date: <2/04/2025>
  Title: Lab6 - Link State routing 
- Description: This lab invovled developing a link state routing algorithm bu using Dijkstra's Algorithm. 
+ Description: This lab invovled developing a link state routing algorithm by using Dijkstra's Algorithm. 
  */
 // COEN 146L - Lab: Link State routing
 #include <unistd.h>
